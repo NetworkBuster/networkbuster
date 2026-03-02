@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnre_engine.a CMakeFiles/nre_engine.dir/engine/nature/LSystem.cpp.o CMakeFiles/nre_engine.dir/engine/nature/TreeRenderer.cpp.o
+/usr/bin/ranlib libnre_engine.a
